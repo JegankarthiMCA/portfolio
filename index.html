@@ -644,13 +644,15 @@
           <form action="mailto:jegankjack121@gmail.com.com" method="post" enctype="text/plain">
             <input
               type="text"
+              id="subject"
               placeholder="Name"
               class="control_input"
               data-aos="fade-right"
               data-aos-delay="250"  required
             />
             <input
-              type="mail"
+              type="email"
+              id="email" 
               placeholder="Email"
               class="control_input"
               data-aos="fade-right"
@@ -658,7 +660,7 @@
             />
             <textarea
               name=""
-              id=""
+              id="message"
               cols="0"
               rows="10"
               placeholder="Message"
@@ -668,8 +670,8 @@
             ></textarea>
 
             <input
-              type="button"
-              value="Send"
+              type="submit"
+              value="Send Email"
               class="control_button button"
               data-aos="fade-right"
               data-aos-delay="450"
@@ -740,6 +742,30 @@
         duration: 1200,
         once: false,
       });
+
+      //email form
+      function validateForm() {
+            var email = document.getElementById("email").value;
+            var subject = document.getElementById("subject").value;
+            var message = document.getElementById("message").value;
+
+            if (email === "" || subject === "" || message === "") {
+                alert("Please fill in all fields.");
+                return false;
+            }
+
+            if (!isValidEmail(email)) {
+                alert("Please enter a valid email address.");
+                return false;
+            }
+
+            return true;
+        }
+
+        function isValidEmail(email) {
+            var emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+            return emailPattern.test(email);
+        }
     </script>
   </body>
 </html>
