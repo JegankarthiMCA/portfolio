@@ -23,14 +23,14 @@
   --z-fixed: 100;
 }
 
-/* @media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
   :root {
     --big-font-size: 3.5rem;
     --h2-font-size: 2rem;
     --nomral-font-size: 1rem;
   }
-}  */
-@media screen and (max-width:1150px){
+} 
+/* @media screen and (max-width:1150px){
 .nav__menu{
 position:fixed;
 top:-100%;
@@ -43,7 +43,7 @@ backdrop-filter:blur(8px);
 transition:top .4s;
 }
 }
-
+ */
 
 *,
 ::before {
