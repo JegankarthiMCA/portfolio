@@ -708,7 +708,7 @@
                
                         <button type="submit" class="control_button button"
               data-aos="fade-right"
-              data-aos-delay="450">Send Message</button>
+              data-aos-delay="450"><i class="ri-send-plane-fill"></i>Send Message <i class="fa-solid fa-paper-plane fa-beat"></i></button>
                        
                       </form>
         </div>
@@ -793,7 +793,7 @@ const sendEmail  = (e) =>{
     //Remove message after five seconds
     setTimeout(() =>{
         contactMessage.textContent =""
-    },1000)  
+    },5000)  
    
     // Clear input fields
     contactForm.reset()
@@ -802,13 +802,8 @@ const sendEmail  = (e) =>{
     //Show error message
     contactMessage.textCOntent='Message not sent (service error) ❌'
 })
-
-
 }
-
 contactForm.addEventListener('submit',sendEmail)
-
-
     </script>
   </body>
 </html>
