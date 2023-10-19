@@ -781,30 +781,7 @@
         once: false,
       });
 
-      //email form
-      function validateForm() {
-            var email = document.getElementById("email").value;
-            var subject = document.getElementById("subject").value;
-            var message = document.getElementById("message").value;
-
-            if (email === "" || subject === "" || message === "") {
-                alert("Please fill in all fields.");
-                return false;
-            }
-
-            if (!isValidEmail(email)) {
-                alert("Please enter a valid email address.");
-                return false;
-            }
-
-            return true;
-        }
-
-        function isValidEmail(email) {
-            var emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
-            return emailPattern.test(email);
-        }
-
+    
     const contactForm=document.getElementById('contact-form'),
 contactMessage= document.getElementById('contact-message')
 
