@@ -677,7 +677,7 @@
               data-aos-delay="450"
             />
           </form> -->
-          <form action="" class="contact__form" id="contact-form">
+          <form  class="contact_container bd_grid">
                         <div class="contact__group">
                            <div class="contact__box">
                             <i class="fa-solid fa-user fa-beat" style="color: #1558cb;"></i>
@@ -690,7 +690,7 @@
                            </div>
                            
                            <div class="contact__box">
-                            <i class="fa-solid fa-envelope fa-beat-fade" style="color: #0c5fed;"></i>
+                            
                             <label>Email</label>
                               <input type="email" name="user_email" placeholder="Email"
               class="control_input"
@@ -701,14 +701,16 @@
                         </div>
                        
                         <div class="contact__box">
-                          <i class="fa-regular fa-note-sticky fa-beat-fade" style="color: #0c5fed;"></i>
+                          
                           <label>Subject</label>
-                           <input type="text" name="user_subject" class="form-control" id="subject" required placeholder="Subject">
-                           <label for="subject" class="contact__label"></label>
+                           <input type="text" name="user_subject" class="form-control" id="subject"  class="control_input"
+              data-aos="fade-right"
+              data-aos-delay="300"  required>
+                           
                         </div>
    
                        <div class="contact_box contact_area">
-                        <i class="fa-solid fa-comment-sms fa-beat-fade" style="color: #1064f4;"></i>
+                      
                               <label>Message</label>
                          <textarea name="user_message" id="message" cols="0"
               rows="10"
@@ -716,16 +718,14 @@
               class="control_input"
               data-aos="fade-right"
               data-aos-delay="400"  required></textarea>
-                         <label for="message" class="contact__label"></label>
+                     
                        </div>  
                        
                        <p class="contact__message" id="contact-message"></p>
                
                         <button type="submit" class="control_button button"
               data-aos="fade-right"
-              data-aos-delay="450">
-                           <i class="ri-send-plane-fill"></i>Send Message <i class="fa-solid fa-paper-plane fa-beat"></i>
-                        </button>
+              data-aos-delay="450">Send Message</button>
                        
                       </form>
         </div>
