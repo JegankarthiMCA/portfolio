@@ -2,7 +2,7 @@
 
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=26F7EB&center=true&vCenter=true&width=800&lines=Hello,+I'm+%3CYour+Name%3E!+👋;A+Passionate+%3CYour+Role%3E+🌟;I+Love+Building+Creative+Solutions+🚀" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=26F7EB&center=true&vCenter=true&width=800&lines=Hello,+I'm+%3CYour+Name%3E!+👋;A+Passionate+%3CFull stack Web & Mobile App developer%3E+🌟;I+Love+Building+Creative+Solutions+🚀" alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 <p>
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="300" />
   <samp>
-    Hi there! I’m <b><Your Name></b>, a passionate <b><Your Role></b> from <b><Your Location></b>.<br>
-    ✨ I specialize in <b><Your Skills or Domain></b>.<br>
+    Hi there! I’m <b><Your Name></b>, a passionate <b><Your Role></b> from <b>Web Application developer</b>.<br>
+    ✨ I specialize in <b>MERN Stack</b>.<br>
     🚀 I love solving problems, learning new technologies, and contributing to impactful projects.<br>
-    💡 Currently, I’m exploring <b><Your Current Learning Focus></b>.<br>
-    🏆 My goal is to grow as a <b><Your Goal></b> and build solutions that make a difference.<br>
-    📫 Reach me at: <a href="mailto:your_email@gmail.com">your_email@gmail.com</a>.<br>
-    🌐 Visit my portfolio: <a href="https://yourwebsite.com">yourwebsite.com</a>.
+    💡 Currently, I’m exploring <b>MCA</b>.<br>
+    🏆 My goal is to grow as a <b>App developer</b> and build solutions that make a difference.<br>
+    📫 Reach me at: <a href="mailto:jegankjack121@gmail.com">jegankjack121@gmail.com</a>.<br>
+    🌐 Visit my portfolio: <a href="https://www.instagram.com/jega_pugal__555">jegan jack.com</a>.
   </samp>
 </p>
 
@@ -37,7 +37,7 @@
 ## 🌟 **Featured Projects**
 <p align="center">Here are some of my favorite projects that I’ve worked on:</p>
 
-### 📌 [**Project 1: Your Project Name**](https://github.com/yourusername/project1)
+### 📌 [**portfolio: My PortFolio**](https://github.com/JegankarthiMCA/portfolio)
 - 🔹 **Description:** Brief description of what the project does.
 - 🔹 **Tech Stack:** HTML, CSS, JavaScript, React
 - 🔹 **Highlights:** 
