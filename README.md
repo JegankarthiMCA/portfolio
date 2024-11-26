@@ -58,26 +58,26 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/yourusername?tab=repositories"><b>🔍 See All My Projects</b></a>
+  <a href="https://github.com/JegankarthiMCA?tab=repositories"><b>🔍 See All My Projects</b></a>
 </p>
 
 ---
 
 ## 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JegankarthiMCA&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JegankarthiMCA&theme=radical" alt="GitHub Streak Stats" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" alt="GitHub Contribution Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JegankarthiMCA&theme=radical" alt="GitHub Contribution Stats" />
 </p>
 
 ---
 
 ## 📊 **GitHub Activity**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JegankarthiMCA&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
