@@ -2,7 +2,7 @@
 
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=26F7EB&center=true&vCenter=true&width=800&lines=Hello,+I'm+%3CYour+Name%3E!+👋;A+Passionate+%3CFull stack Web & Mobile App developer%3E+🌟;I+Love+Building+Creative+Solutions+🚀" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=26F7EB&center=true&vCenter=true&width=800&lines=Hello,+I'm+%3CJegan K%3E!+👋;A+Passionate+%3CFull stack Developer%3E+🌟;I+Love+Building+Creative+Solutions+🚀" alt="Typing Animation">
 </p>
 
 <p align="center">
